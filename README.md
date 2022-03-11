@@ -1,3 +1,4 @@
+# THIS PROGRAM WONT RECEIVE UPDATES ANYMORE! USE [DPI Tunnel Android](https://github.com/zhenyolka/DPITunnel-android) INSTEAD.
 # DPI Tunnel
 <p align="center">
     <img src="assets/logo.png" alt="DPI Tunnel logo" width="200">
